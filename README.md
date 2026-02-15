@@ -1,5 +1,4 @@
-# Netflix-Movies-NLP-Analysis
-NLP data analysis using Python
+
 # Netflix Movies Data Analysis using Python
 
 This project analyzes Netflix movies dataset using Python and Natural Language Processing (NLP) techniques.
